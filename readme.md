@@ -1,8 +1,8 @@
-RAG Pipelines for Large Language Modeling(LLM)
+### RAG Pipelines for Large Language Modeling(LLM)
 
 This repository contains implementations of basic and advanced Retrievel Augmented Generator (RAG) pipelines used for LLM tasks. The RAG approach combines the strengths of dense retrievers and powerful language models to generate informative, contextually relevant responses.
 
-Overview
+### Overview
 
 `RAG_pipeline.ipynb`: Implements the basic RAG pipeline.
 
